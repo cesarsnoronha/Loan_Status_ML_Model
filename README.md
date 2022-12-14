@@ -1,4 +1,4 @@
-# Nome do PROJETO
+# Loan_Status_ML_Model
 
 Sobre o projeto
 
@@ -40,4 +40,3 @@ Sobre o projeto
 - Onde armazenar a base de dados?
     Em uma pasta na área de trabalho
 
-# Loan_Status_ML_Model
